@@ -1,0 +1,19 @@
+{
+  "name": "vercel_server",
+  "version": "1.0.0",
+  "description": "server for api hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvtltdpratik/node_server.git"
+  },
+  "author": "pratik kolhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvtltdpratik/node_server.git/issues"
+  },
+  "homepage": "https://github.com/pvtltdpratik/node_server#readme"
+}
